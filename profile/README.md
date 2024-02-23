@@ -10,7 +10,8 @@ To simplify location sharing, making it precise and hassle-free for everyone, ev
 
 ### Project Structure:
 
-\Web
+```
+Web
 ├── App
 │   └── Project
 │       ├── interim
@@ -23,3 +24,4 @@ To simplify location sharing, making it precise and hassle-free for everyone, ev
 │       ├── interim
 │       └── public
 └── Tiggu
+```
