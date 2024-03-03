@@ -9,3 +9,9 @@ Our innovative solution ensures that no matter where you are in the world, you h
 
 ### Mission
 To simplify location sharing, making it precise and hassle-free for everyone, everywhere.
+
+## Projects
+
+1. Web - [webapp](https://github.com/wolo-code/web-app) & [website](https://github.com/wolo-code/web-site) - [wolo.codes](https://wolo.codes)  
+    main: [wolo-code/web](https://github.com/wolo-code/web)
+2. [Paper](https://github.com/wolo-code/paper) - algorithm academic paper
